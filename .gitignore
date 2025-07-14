@@ -1,0 +1,10 @@
+*.pt
+*.pth
+__pycache__/
+*.log
+*.tmp
+*.pt
+*.pth
+__pycache__/
+*.log
+*.tmp
